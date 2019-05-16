@@ -1,4 +1,4 @@
-function highestBuilding(buildings: number[][]) {
+export function highestBuilding(buildings: number[][]) {
     // your code here
     return [0, 0];
 }
